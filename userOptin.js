@@ -1,1 +1,3 @@
-function ()
+function myFunction() {
+    document.write(Date());
+}
